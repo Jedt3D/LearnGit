@@ -12,4 +12,7 @@
 
 `git commit -m '....'`
 
+**กรณีที่มีการ modify file ให้ใช้ `-a` ในการ commit เพิ่มไปด้วย**
+
+`git commit -a -m '....'`
 
